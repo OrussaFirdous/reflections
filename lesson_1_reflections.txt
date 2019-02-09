@@ -1,0 +1,15 @@
+
+How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
+
+
+
+
+
+
+
+
+How could having easy access to the entire hstry of a file make you a more efficient programmer in the long term? 
+
+
+
